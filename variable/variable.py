@@ -2,34 +2,34 @@
 # A variable is created in this time when asign a value
 a=5
 b="sameer"
-# print(a)
-# print(b)
+print(a)
+print(b)
 d="ali"
-# print(d)
+print(d)
 
 # casting of a variable mean define the type of a variable
 e=int(3)
-# print(e)
+print(e)
 f=str(3)
-# print(f)
+print(f)
 g=float(3)
-# print(g)
+print(g)
 
 # get the data type of variable
-# print(type(e))
-# print(type(f))
-# print(type(g))
+print(type(e))
+print(type(f))
+print(type(g))
 
 # string can be declare either single or double code
 i="john"
 i='john'
-# print(i)
+print(i)
 
 # case-sensative
 # variable name are caase sensatative mean that upper case letter is consider different from  lower case letter
 a="sameer"
 A="ali"
-# print(A)
+print(A)
 
 # variable name
 myvar = "John"
