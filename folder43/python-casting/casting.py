@@ -1,0 +1,31 @@
+# integer
+a=int(1)
+print(a)
+print(type (a))
+b=int(23.3)
+print(b)
+print(type (b))
+c=int("23")
+# print(c)/
+print(type (c))
+
+# float
+a=float(2)
+print(a)
+print(type (a))
+b=float(23.33)
+print(b)
+print(type (b))
+c=float("45.54")
+print(c)
+print(type (c))
+
+a=str("sameer ali")
+print(a)
+print(type (a))
+b=str(23)
+print(b)
+print(type (b))
+c=str("23.33")
+print(c)
+print(type (c))
