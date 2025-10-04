@@ -37,3 +37,5 @@ print(int)
 print(type(int))
 bool=bool(name)
 print(bool)
+
+
